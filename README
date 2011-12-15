@@ -1,0 +1,4 @@
+These are some add-ons to the Prototype JavaScript library.
+
+	- ajax-cache:  a content caching mechanism for Ajax.Request.
+	- ajax-timeout:  adds a timeout handler to Ajax.Request.
